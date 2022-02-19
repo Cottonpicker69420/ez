@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"!}ccIkIM6OP{RXW6ubc5"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="jd=mY7wNlbSO3nQ3~oY:"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"!}ccIkIM6OP{RXW6ubc5"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="jd=mY7wNlbSO3nQ3~oY:"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="E6ds#KQ_4rSl`-mLm)Ek"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="DKfsk+w42/!u@VPKI-KX"><field name="VAR" id="vTBotg%r!9~[_S(ivjep">mySprite</field></block></value></block></next></block></statement></block></xml>
